@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "All Behaviours Needed For Hexahedron",
+        "name": "Hexahedron Behaviour Pack",
+        "uuid": "f756fc76-f644-44ab-8a67-e86b8d820862",
+        "version": [ 1, 1, 1 ],
+        "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+        {
+            "description": "All Behaviours Needed For Hexahedron",
+            "type": "data",
+            "uuid": "9c6ca49a-19ff-4c01-8caf-5fd262a939b1",
+            "version": [1, 1, 1]
+        }
+    ]
+}

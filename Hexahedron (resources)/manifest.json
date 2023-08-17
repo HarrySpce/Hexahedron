@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "All Textures Needed For Hexahedron",
+        "name": "Hexahedron Texture Pack",
+        "uuid": "54ca687e-80be-4ece-861d-abe2c3131bef",
+        "version": [1, 1, 1],
+        "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+        {
+            "description": "All Textures Needed For Hexahedron",
+            "type": "resources",
+            "uuid": "9e6c9dfc-c1cb-415d-bbcf-fff90d39c598",
+            "version": [1, 1, 1]
+        }
+    ]
+}

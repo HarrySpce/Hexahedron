@@ -1,0 +1,46 @@
+TEXTURES
+
+iron ingot - light fragment
+iron block - light mote
+
+netherite ingot - dark fragment
+netherite block - dark mote
+
+netherite scrap - the last breath
+
+splash regen pot - healing grenade
+
+I - 14
+II - 29
+III - 4
+IV - 25
+V - 10
+
+Protection - Mobility
+Thorns- Resilience
+Unbreaking - Recovery
+Mending - Discipline
+
+BEHAVIOURS
+
+skeleton -> zombie
+stray -> husk
+
+zombie - 3 light fragments
+husk - 3 dark fragments
+
+When rising;
+levitation 5 for 4 seconds
+blindness 1 for 3 seconds
+
+CHAT MESSAGES
+
+Hexahedron
+Restricted Zone
+
+enter 1st - Escape
+enter 1st- Find a way forward...
+
+tped to next room - The realm responds to your actions.
+
+at end of enc - The way is open...
